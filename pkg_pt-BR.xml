@@ -19,9 +19,9 @@
 	<packager>Ariadne Duvessa</packager>
 	<packagerurl>http://www.joomla.com.br</packagerurl>
 	<files>
-		<file type="language" client="site" id="pt-BR">site_pt-BR.zip</file>
-		<file type="language" client="administrator" id="pt-BR">admin_pt-BR.zip</file>
-		<file type="file" client="site" id="TinyMCE_pt-BR">pt-BR_TinyMCE_3.5.1.zip</file>
+		<file type="language" client="site" id="pt-BR">site_pt-BR</file>
+		<file type="language" client="administrator" id="pt-BR">admin_pt-BR</file>
+		<file type="file" client="site" id="TinyMCE_pt-BR">pt-BR_TinyMCE_3.5.1</file>
 	</files>
 	<updateservers>
 		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
