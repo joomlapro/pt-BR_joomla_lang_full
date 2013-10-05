@@ -15,9 +15,6 @@
 	<fileset>
 		<files target="media/editors">
 			<filename>tinymce/langs/pt-BR.js</filename>
-			<filename>tinymce/themes/advanced/langs/pt-BR.js</filename>
-			<filename>tinymce/themes/advanced/langs/pt-BR_dlg.js</filename>
-			<filename>tinymce/themes/simple/langs/pt-BR.js</filename>
 		</files>
 	</fileset>
 </extension>
