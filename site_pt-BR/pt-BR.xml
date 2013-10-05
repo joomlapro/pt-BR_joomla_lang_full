@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.0" client="site">
-    <tag>pt-BR</tag>
+	<tag>pt-BR</tag>
 	<name>Português (Brasil)</name>
 	<version>3.0.3</version>
-    <creationDate>2013-01-29</creationDate>
-    <author>Joomla Brasil</author>
-    <authorEmail>traducao@joomla.com.br</authorEmail>
+	<creationDate>2013-01-29</creationDate>
+	<author>Joomla Brasil</author>
+	<authorEmail>traducao@joomla.com.br</authorEmail>
 	<authorUrl>www.joomla.com.br</authorUrl>
-    <copyright>Copyright 2005 - 2013 Open Source Matters. Todos os Direitos Reservados. Copyright Translation 2005 - 2013 Joomla Brasil. Todos os Direitos Reservados.</copyright>
-    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<copyright>Copyright 2005 - 2013 Open Source Matters. Todos os Direitos Reservados. Copyright Translation 2005 - 2013 Joomla Brasil. Todos os Direitos Reservados.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description><![CDATA[
-				Arquivos de Idioma em Português Brasileiro para o CMS Joomla! 3.0<br/>
-				Copyright 2005 - 2013 Open Source Matters. Todos os Direitos Reservados. Copyright Translation 2005 - 2013 Joomla Brasil. Todos os Direitos Reservados.<br/>
-				De acordo com termo de licenciamento de <a href="http://www.opensourcematters.org" target="_blank">OpenSourceMatters</a> e <a href="http://www.joomla.org" target="_blank">Joomla!</a> todos os arquivos de idioma devem ser licenciados sob a <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank"> licença GNU/GPL (v.2.0)</a>. Esta tradução está licenciada sob esta licença. Se você encontrar algum erro de digitação, traduções incorretas ou se deseja sugerir melhorias, entre em contato com o <a href="mailto:traducao@joomla.com.br">coordenador</a> da tradução.
-				]]>
+		Arquivos de Idioma em Português Brasileiro para o CMS Joomla! 3.0<br/>
+		Copyright 2005 - 2013 Open Source Matters. Todos os Direitos Reservados. Copyright Translation 2005 - 2013 Joomla Brasil. Todos os Direitos Reservados.<br/>
+		De acordo com termo de licenciamento de <a href="http://www.opensourcematters.org" target="_blank">OpenSourceMatters</a> e <a href="http://www.joomla.org" target="_blank">Joomla!</a> todos os arquivos de idioma devem ser licenciados sob a <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank"> licença GNU/GPL (v.2.0)</a>. Esta tradução está licenciada sob esta licença. Se você encontrar algum erro de digitação, traduções incorretas ou se deseja sugerir melhorias, entre em contato com o <a href="mailto:traducao@joomla.com.br">coordenador</a> da tradução.
+		]]>
 	</description>
-	
 	<files>
 		<filename>pt-BR.com_contact.ini</filename>
 		<filename>pt-BR.com_content.ini</filename>
@@ -89,9 +88,7 @@
 		<filename>pt-BR.tpl_beez3.sys.ini</filename>
 		<filename>pt-BR.tpl_protostar.ini</filename>
 		<filename>pt-BR.tpl_protostar.sys.ini</filename>
-	
 	</files>
-	
 	<metadata>
 		<name>Português (Brasil)</name>
 		<tag>pt-BR</tag>
@@ -99,7 +96,5 @@
 		<rtl>0</rtl>
 		<firstDay>0</firstDay>
 	</metadata>
-	
-    <params />
-
+	<params />
 </metafile>
