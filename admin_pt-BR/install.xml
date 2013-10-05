@@ -2,7 +2,7 @@
 <extension version="3.0" client="administrator" type="language" method="upgrade">
 	<name>Português(Brasil)</name>
 	<tag>pt-BR</tag>
-	<version>3.0.3.1</version>
+	<version>3.2.0.1</version>
 	<creationDate>2013-01-29</creationDate>
 	<author>Joomla Brasil</author>
 	<authorEmail>traducao@joomla.com.br</authorEmail>

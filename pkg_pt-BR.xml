@@ -2,7 +2,7 @@
 <extension type="package" version="3.0" method="upgrade">
 	<name>Portuguese Brazil Language Pack</name>
 	<packagename>pt-BR</packagename>
-	<version>3.0.3.1</version>
+	<version>3.2.0.1</version>
 	<description>
 		<![CDATA[<h3><strong>Instalação do pacote de idioma Português (Brasil) para o CMS Joomla! 3.0 e o editor TinyMCE 3.5.1 foram concluídos com sucesso.</strong></h3>
 		<p>Copyright 2005 - 2013 Open Source Matters. Todos os Direitos Reservados. Copyright Translation 2005 - 2013 Joomla Brasil. Todos os Direitos Reservados.<br/>
@@ -19,9 +19,9 @@
 	<packager>Ariadne Duvessa</packager>
 	<packagerurl>http://www.joomla.com.br</packagerurl>
 	<files>
-		<file type="language" client="site" id="pt-BR">site_pt-BR</file>
-		<file type="language" client="administrator" id="pt-BR">admin_pt-BR</file>
-		<file type="file" client="site" id="TinyMCE_pt-BR">pt-BR_TinyMCE_3.5.1</file>
+		<file type="language" id="site_pt-BR" client="site">site_pt-BR</file>
+		<file type="language" id="admin_pt-BR" client="administrator">admin_pt-BR</file>
+		<file type="file" id="TinyMCE_pt-BR" client="site">TinyMCE_pt-BR</file>
 	</files>
 	<updateservers>
 		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
